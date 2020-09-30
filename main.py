@@ -9,4 +9,3 @@ while motorbike > 1000:
 else:
     print("Less than £1000")
 
-#how do you write the calculation
