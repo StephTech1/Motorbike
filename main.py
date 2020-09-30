@@ -7,6 +7,6 @@ while motorbike > 1000:
   print(motorbike)
 
 else:
-    print("Less than 1000")
+    print("Less than £1000")
 
 #how do you write the calculation
