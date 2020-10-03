@@ -1,5 +1,6 @@
 print ("Motorbike Value")
 print ("Each month value decreases by 10%")
+
 motorbike = 2000
 print("£",motorbike)
 
